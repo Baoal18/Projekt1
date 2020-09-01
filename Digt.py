@@ -5,3 +5,5 @@ print("Hej Tobias")
 print("FUCK EVERYBODY")
 
 print('Github er et scuffed program, der næsten virker')
+
+NoobLoadPwnnummer=34567
