@@ -3,3 +3,5 @@ print("Moder, jeg er træt, nu vil jeg sove, Lad mig ved dit Hjerte slumre ind; 
 print("Hej Tobias")
 
 print("FUCK EVERYBODY")
+
+print('Github er et scuffed program, der næsten virker')
